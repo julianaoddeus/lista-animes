@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+let animeAPI = "https://api.jikan.moe/v3/season/2021/spring";
+
 let objetoAnimes = [
     
     { foto : "koe.jpg",    nome : "Koe no katachi"},
